@@ -4,8 +4,7 @@
 ```
 const data = 100;
 console.log(data.toString());//converts number to a string
----
-
+```
 
 ## Directly converts number to a string
 
@@ -13,7 +12,7 @@ console.log(data.toString());//converts number to a string
 console.log(100.toString());//Uncaught SyntaxError: Invalid or unexpected token
 ```
 
-### To fix the syntax error:
+## To fix the syntax error:
 - `console.log(100.toString());` : Tries to directly convert the number 100 to a string using the toString() method. 
 - However, this will result in a syntax error because JavaScript interprets the dot following 100 as a decimal point, not as a property accessor.
 - To fix this, we would need to use parentheses to ensure proper parsing: `console.log((100).toString());`.
