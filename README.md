@@ -9,3 +9,5 @@
 - [Code Snippet - 4](https://github.com/ReddyDivya/JavaScript-Code-Snippets/blob/main/snippet-4.md)
 
 - [Code Snippet - 5](https://github.com/ReddyDivya/JavaScript-Code-Snippets/blob/main/snippet-5.md)
+
+- [Code Snippet - 6](https://github.com/ReddyDivya/JavaScript-Code-Snippets/blob/main/snippet-6.md)
