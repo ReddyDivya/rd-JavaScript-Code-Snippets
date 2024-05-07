@@ -1,4 +1,4 @@
-# Code Snippet - 9
+# Code Snippet - 8
 
 ```
 let num = 25;
