@@ -4,7 +4,6 @@
 age = 100;
 console.log("Age: "+ age);
 let age = 30;
-console.log("Age: "+ age);
 ```
 
 # Code Explanation:
